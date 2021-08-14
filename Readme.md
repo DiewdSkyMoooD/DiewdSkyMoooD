@@ -16,8 +16,7 @@
 </div>
 
 ## Contact
-<div> 
- 	<img alt="Website" src="https://img.shields.io/website?down_color=withe&down_message=web&style=for-the-badge&up_color=purple&up_message=%F0%9F%8C%8Eweb&url=https%3A%2F%2Fcesar-ch.herokuapp.com%2F">
+<div>
   <a href = "mailto:cesar5807@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cesar-carranza-hernandez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
