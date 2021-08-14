@@ -6,13 +6,13 @@
 
 ## Skills
 <div style="display: inline_block"><br>
-  <img align="center" alt="DiewdSkyMoooD-html" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/html.png">
-  <img align="center" alt="DiewdSkyMoooD-css" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/css.png">
-  <img align="center" alt="DiewdSkyMoooD-js" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/javascript.png">
-  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/bootstrap.png">
-  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/nodejs.png">
-  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/mysql.png">
-  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/complements/react.png">
+  <img align="center" alt="DiewdSkyMoooD-html" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/html.png">
+  <img align="center" alt="DiewdSkyMoooD-css" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/css.png">
+  <img align="center" alt="DiewdSkyMoooD-js" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/javascript.png">
+  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/bootstrap.png">
+  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/nodejs.png">
+  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/mysql.png">
+  <img align="center" alt="DiewdSkyMoooD-" height="30" width="40" src="https://github.com/DiewdSkyMoooD/DiewdSkyMoooD/blob/master/complements/react.png">
 </div>
 
 ## Contact
